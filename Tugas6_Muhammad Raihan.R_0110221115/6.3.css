@@ -5,7 +5,7 @@
 body, html{
     font-size: 20px;
     font-family: arial;
-    color: white;
+    color: rgba(241, 240, 241, 0.925);
     text-transform: uppercase;
     text-align: center;
 }
@@ -23,7 +23,7 @@ body, html{
 }
 
 .box{
-    background-color: beige;
+    background-color: rgb(243, 92, 117);
     width: 150px;
     height: 150px;
     border: 1px solid;
@@ -34,19 +34,19 @@ body, html{
     justify-content: space-around;
 }
 header{  
-    background-color: blue;
+    background-color: aquamarine;
     width: 95.5%;
     height: 100px;
 }
 
 aside{
-    background-color: aqua;
+    background-color: rgb(51, 194, 199);
     width: 20%;
     height: 400px;
 }
 
 article{
-    background-color: aquamarine;
+    background-color: palevioletred;
     width: 80%;
     height: 400px;
     display: flex;
@@ -55,7 +55,7 @@ article{
 }
 
 footer{
-    background-color: blue;
+    background-color: aquamarine;
     width: 95.5%;
     height: 100px;
 }
@@ -66,7 +66,7 @@ header, aside, article, footer{
 }
 
 p{ 
-    color: blue;
+    color: rgb(249, 249, 253);
 }
 img{
     width: 100%;
